@@ -37,11 +37,27 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3SeGYso6IprR8EsJTdrO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3SeGYso6IprR8EsJTdrO-2" target="3SeGYso6IprR8EsJTdrO-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3SeGYso6IprR8EsJTdrO-32" value="有权限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3SeGYso6IprR8EsJTdrO-30">
+          <mxGeometry x="0.0286" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3SeGYso6IprR8EsJTdrO-2" value="ABAC&lt;div&gt;权限管理器&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3SeGYso6IprR8EsJTdrO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3SeGYso6IprR8EsJTdrO-5" target="3SeGYso6IprR8EsJTdrO-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3SeGYso6IprR8EsJTdrO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3SeGYso6IprR8EsJTdrO-5" target="3SeGYso6IprR8EsJTdrO-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3SeGYso6IprR8EsJTdrO-28" value="编辑资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3SeGYso6IprR8EsJTdrO-27">
+          <mxGeometry x="0.0143" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3SeGYso6IprR8EsJTdrO-5" value="获取资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="630" width="120" height="60" as="geometry" />
@@ -78,6 +94,36 @@
         </mxCell>
         <mxCell id="3SeGYso6IprR8EsJTdrO-13" value="RBAC&lt;div&gt;权限管理器&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3SeGYso6IprR8EsJTdrO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3SeGYso6IprR8EsJTdrO-20" target="3SeGYso6IprR8EsJTdrO-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3SeGYso6IprR8EsJTdrO-25" value="提交修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3SeGYso6IprR8EsJTdrO-24">
+          <mxGeometry x="-0.1714" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3SeGYso6IprR8EsJTdrO-20" value="渲染&lt;span style=&quot;background-color: initial;&quot;&gt;资源编辑表单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3SeGYso6IprR8EsJTdrO-23" value="服务端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3SeGYso6IprR8EsJTdrO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3SeGYso6IprR8EsJTdrO-29" target="3SeGYso6IprR8EsJTdrO-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="530" />
+              <mxPoint x="980" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3SeGYso6IprR8EsJTdrO-34" value="提交新增" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3SeGYso6IprR8EsJTdrO-33">
+          <mxGeometry x="-0.0095" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3SeGYso6IprR8EsJTdrO-29" value="渲染资源新增表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
