@@ -1,9 +1,132 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="y6UQeU6xMUp3rGtvSaQ5">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="prjDPoFfILHg9xHnaVuE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="prjDPoFfILHg9xHnaVuE-2" target="prjDPoFfILHg9xHnaVuE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-2" value="创建自定义资源模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="prjDPoFfILHg9xHnaVuE-6" target="prjDPoFfILHg9xHnaVuE-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-4" value="存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="prjDPoFfILHg9xHnaVuE-3">
+          <mxGeometry x="-0.0615" relative="1" as="geometry">
+            <mxPoint y="67" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="prjDPoFfILHg9xHnaVuE-6" target="prjDPoFfILHg9xHnaVuE-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-7" value="资源名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="350" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-9" value="属性名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="495" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-10" value="属性标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="495" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-11" value="属性说明" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-12" value="是否必须" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-13" value="资源属性1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="430" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-15" value="属性名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="495" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-16" value="属性标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="495" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-17" value="属性说明" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-18" value="是否必须" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-19" value="资源属性2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="630" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-21" value="属性名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="695" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-22" value="属性标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="695" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-23" value="属性说明" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-24" value="是否必须" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-25" value="资源属性3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="640" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="630" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-27" value="属性名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="695" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-28" value="属性标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="695" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-29" value="属性说明" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-30" value="是否必须" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-31" value="资源属性n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="640" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="prjDPoFfILHg9xHnaVuE-36" target="prjDPoFfILHg9xHnaVuE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-33" value="获取数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="prjDPoFfILHg9xHnaVuE-32">
+          <mxGeometry x="0.3943" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="prjDPoFfILHg9xHnaVuE-36" target="prjDPoFfILHg9xHnaVuE-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-35" value="获取资源模型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="prjDPoFfILHg9xHnaVuE-34">
+          <mxGeometry x="0.0611" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-36" value="服务端存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="prjDPoFfILHg9xHnaVuE-38" target="prjDPoFfILHg9xHnaVuE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-38" value="用户选择自定义资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="prjDPoFfILHg9xHnaVuE-39" value="展示对应资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
