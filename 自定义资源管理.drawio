@@ -4,8 +4,86 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="X7OZpK74XMctFH0BW-H9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X7OZpK74XMctFH0BW-H9-1" value="创建自定义资源模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-2" value="资源名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="350" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-10" value="属性名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="495" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-11" value="属性标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="495" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-12" value="属性说明" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-13" value="是否必须" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-14" value="资源属性1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="430" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-16" value="属性名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="495" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-17" value="属性标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="495" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-18" value="属性说明" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-19" value="是否必须" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-20" value="资源属性2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="630" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-22" value="属性名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="695" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-23" value="属性标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="695" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-24" value="属性说明" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-25" value="是否必须" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-26" value="资源属性3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="640" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="630" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-28" value="属性名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="695" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-29" value="属性标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="695" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-30" value="属性说明" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-31" value="是否必须" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zaWkkEv80FB03Rphdk8r-32" value="资源属性n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="640" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
